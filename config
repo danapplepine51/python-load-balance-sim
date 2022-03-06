@@ -1,0 +1,9 @@
+policy:load_balancing
+probability:0.8,0.8,0.8,0.8
+server:csel-kh4240-05.cselabs.umn.edu,9196
+node_0:csel-kh4240-05.cselabs.umn.edu,9195
+node_1:csel-kh4240-05.cselabs.umn.edu,9194
+node_2:csel-kh4240-05.cselabs.umn.edu,9193
+node_3:csel-kh4240-05.cselabs.umn.edu,9192
+client:csel-kh4240-05.cselabs.umn.edu,9191
+proj_path:/home/song0254/Documents/csci5105/proj_dir

@@ -1,0 +1,9 @@
+policy:random
+probability:0.1,0.1,0.1,0.1
+server:csel-kh1250-04.cselabs.umn.edu,9197
+node_0:csel-kh1250-05.cselabs.umn.edu,9197
+node_1:csel-kh1250-07.cselabs.umn.edu,9197
+node_2:csel-kh1250-08.cselabs.umn.edu,9197
+node_3:csel-kh1250-09.cselabs.umn.edu,9197
+client:csel-kh1250-03.cselabs.umn.edu,9197
+proj_path:/home/song0254/Documents/csci5105/proj_dir
